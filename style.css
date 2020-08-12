@@ -1,0 +1,26 @@
+h1,em,h2
+{
+    color: red;
+}
+
+.Blatnoy
+{
+    color: orange
+}
+h1
+{
+	font-size: 100px;
+	font-family: Impact, "Arial Black", sans-serif;
+}
+
+h1
+{
+	text-align: center;
+}
+
+body
+{
+	color: white;
+	background-image: url("images/fond.jpg");
+	background-attachment: fixed;
+}
